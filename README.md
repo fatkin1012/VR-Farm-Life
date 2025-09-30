@@ -35,11 +35,6 @@ This project was created as part of a **university coursework** in game developm
 
 ---
 
-## 📷 Screenshots / Demo
-*(Add screenshots or a short video link here if available.)*
-
----
-
 ## 📜 License
 This project was developed for educational purposes. It is not affiliated with or endorsed by **ConcernedApe**, the creator of Stardew Valley.
 
